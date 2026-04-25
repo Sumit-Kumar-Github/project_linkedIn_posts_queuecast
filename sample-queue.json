@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "status": "pending",
+    "type": "text",
+    "text": "Just wrapped up the data ingestion phase for my Indian Stock Market data pipeline! Handling financial datasets is a great way to deepen domain knowledge."
+  },
+  {
+    "id": 2,
+    "status": "pending",
+    "type": "text",
+    "text": "Currently deep in preparation for the Microsoft Azure Data Fundamentals (DP-900) exam. Reviewing core data concepts and cloud implementations."
+  }
+]
