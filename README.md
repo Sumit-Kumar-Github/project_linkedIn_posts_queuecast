@@ -2,7 +2,7 @@
 
 An automated, zero-cost content distribution system built with **Python** and **GitHub Actions**. This project automates the end-to-end process of scheduling and publishing LinkedIn posts (text and images) without requiring a dedicated server.
 
-![Architecture Diagram](https://your-image-link-here.com) 
+![Architecture Diagram](https://github.com/Sumit-Kumar-Github/zz_Raw-Data/blob/4b71913dd0bf007b73dd81d2850900efa9f1c632/linkedIn-autopost-data/automated-linkedin-poster-workflow.png) 
 
 ## 🛠️ Tech Stack
 * **Language:** Python 3.x
